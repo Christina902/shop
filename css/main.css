@@ -1,0 +1,160 @@
+header, footer{
+    background-color: rgb(174, 124, 255);
+}
+.header{
+    padding: 50px 50px;
+    font-size: 40px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+.logo, .name, .form, .catal, .c-cart, .wishlist{
+    margin-right: 5px;
+}
+.search{
+    padding: 10px;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.add{
+    justify-content: flex-end;
+}
+.cart{
+    height: 45px;
+    width: 45px;
+}
+.heart{
+    height: 50px;
+    width: 50px;
+}
+.catalog{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+.first, .second, .third{
+    display: inline-flex;
+    border-radius: 30px;
+    background-color: rgba(221, 204, 249, 0.8);
+    margin: 50px;
+    padding: 20px;
+    font-size: 28px;
+}
+h1{
+    text-align: center;
+    background-color: #ece7a1;
+    padding: 10px;
+    border-radius: 530px;
+    font-size: 40px;
+}
+.h1{
+    font-size: 30px;
+}
+.bl1{
+    background-color: #ece7a1;
+    padding: 30px;
+    border-radius: 530px;
+    text-align: center;
+}
+.do{
+    padding: 20px;
+}
+.buyy{
+    background-color: #ece7a1;
+    padding: 20px;
+    border-radius: 530px;
+    text-align: center;
+    font-size: 35px;
+}
+.buy{
+    text-align: center;
+    height: 5%;
+    width: 20%;
+    padding: 2%;
+    font-size: 30px;
+    background-color: #b975f0;
+    box-shadow: -1px 4px 100px 8px rgba(17, 14, 163, 0.2) inset;
+}
+.subm{
+    padding: 30px;
+}
+.but{
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+.sell{
+    text-align: center;
+}
+.banner{
+    max-width: 100%;
+    height: auto;
+}
+.block2{
+    padding-bottom: 30px;
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+    background-color: #ece7a1;
+    padding: 10px;
+    border-radius: 530px;
+}
+.h2{
+    font-size: 30px;
+    background-color: #ece7a1;
+    padding: 30px;
+    border-radius: 530px;
+    text-align: center;
+}
+.list, li{
+    font-size: 30px;
+    text-align: center;
+    list-style-type: none;
+}
+.bl2{
+    background-color: #ece7a1;
+    padding: 30px;
+    border-radius: 30px;
+}
+.dog{
+    width: 10%;
+    height:6%;
+    float: right;
+    padding-top: 10px;
+}
+.connect{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+footer{
+    display: flex;
+    font-size: 25px;
+    justify-content: space-between;
+}
+.foot{
+    display: inline-flex;
+    padding: 15px;
+}
+.img{
+    align-self: self-end;
+}
+.cont{
+    list-style-type: none;
+}
+.contact{
+    margin: 5px;
+    height: auto;
+    width: 25%;
+}
+
+  
